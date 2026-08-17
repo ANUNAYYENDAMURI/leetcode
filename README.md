@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
