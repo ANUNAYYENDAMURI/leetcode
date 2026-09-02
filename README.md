@@ -42,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0041-first-missing-positive) |
 | [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
