@@ -9,10 +9,8 @@ class Solution:
             mid = (left + right) // 2
 
             if arr[mid] < arr[mid + 1]:
-                # We are on the increasing side
                 left = mid + 1
             else:
-                # We are on the decreasing side
                 right = mid
 
         return left
