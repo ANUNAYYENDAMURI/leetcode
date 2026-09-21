@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0041-first-missing-positive) |
+| [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Array
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -61,9 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
