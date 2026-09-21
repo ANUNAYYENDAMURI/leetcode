@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0041-first-missing-positive) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0162-find-peak-element) |
 | [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
