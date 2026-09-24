@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
