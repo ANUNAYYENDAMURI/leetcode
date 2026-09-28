@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
