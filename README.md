@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
