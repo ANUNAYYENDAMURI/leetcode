@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
