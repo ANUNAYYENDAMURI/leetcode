@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0389-find-the-difference) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
