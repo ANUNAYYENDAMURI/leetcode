@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
