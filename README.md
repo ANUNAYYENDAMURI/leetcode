@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0561-array-partition) |
 ## Counting
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ANUNAYYENDAMURI/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
